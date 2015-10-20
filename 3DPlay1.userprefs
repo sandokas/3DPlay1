@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GameScripts\Movement.cs">
+    <Files>
+      <File FileName="Assets\GameScripts\SpawnPoint.cs" Line="7" Column="2" />
+      <File FileName="Assets\GameScripts\Delete.cs" Line="8" Column="30" />
+      <File FileName="Assets\GameScripts\Movement.cs" Line="23" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
